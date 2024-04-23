@@ -5,7 +5,7 @@ from datetime import datetime
 import traceback
 
 # Token del tuo bot Telegram
-TOKEN = '6684007630:AAFm6n9xe-Ct07mJSu2q4BQpHmR_145ttVk'
+TOKEN = ''
 
 # Dizionario per memorizzare gli eventi (gli inserisce solo lo sviluppatore del bot)
 eventi = {}
